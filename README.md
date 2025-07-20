@@ -15,5 +15,5 @@ A sleek Spotify remake built using **SwiftUI** and the **SwiftfulRouting** packa
 ## 🛠 Built With
 
 - [Xcode](https://developer.apple.com/xcode/) – IDE for iOS Development  
-- [SwiftUI]([https://developer.apple.com/xcode/swiftui/](https://developer.apple.com/documentation/swiftui)) – Declarative UI framework by Apple  
+- [SwiftUI](https://developer.apple.com/documentation/swiftui) – Declarative UI framework by Apple  
 - [SwiftfulRouting](https://github.com/swiftfulthinking/SwiftfulRouting) – Simplified and intuitive navigation
